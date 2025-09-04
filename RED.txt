@@ -29,3 +29,5 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?type=ws&host=p
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?type=ws&host=pooria.pooria8.workers.dev&path=/q2Xy49SRguXobgwE?ed%3D2560&security=tls&fp=randomized&sni=POORiA.PooRia8.WorkERs.dEv&alpn=http/1.1#%F0%9F%A5%B7%F0%9F%8F%BB443%E2%98%80%EF%B8%8FPOORIA8
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?type=ws&host=pooria.pooria8.workers.dev&path=/ONcz8f8KvgFrb8op?ed%3D2560&security=none#%F0%9F%A5%B7%F0%9F%8F%BB80%E2%98%80%EF%B8%8FPOORIA8
+
+vless://cicadanet@167.99.45.44:30402?flow=&type=tcp&headerType=none&security=reality&fp=chrome&sni=www.journalofbigdata.springeropen.com&pbk=X0A-gB9NvXnTYsgN3ztH4D1-D3W9bg_OtY5ffUjc614&sid=2d9d1cbc94&spx=/meyah#%F0%9F%87%B3%F0%9F%87%B1%F0%9F%A5%B7%F0%9F%8F%BBPOORIA%F0%9F%A5%B7%F0%9F%8F%BB
