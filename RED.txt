@@ -3,3 +3,5 @@ vless://b438158e-060b-4f64-8f7b-3729db9c5ec8@www.speedtest.net:80?type=ws&host=p
 trojan://pooria@pooriaredorg.pooriared.ir:443?type=ws&host=pooriaredorg.pooriared.ir&path=/eyJqdW5rIjoiT0dha2lncEt0WE1FIiwicHJvdG9jb2wiOiJ0ciIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D?ed%3D2560&security=tls&sni=pOoRIArEDOrG.pOorIAred.ir&fp=chrome&allowInsecure=0#%F0%9F%92%A6%205%20-%20Trojan%20-%20Domain%20:%20443
 
 vless://b438158e-060b-4f64-8f7b-3729db9c5ec8@www.speedtest.net:443?type=ws&host=pooriaredorg.pooriared.ir&path=/eyJqdW5rIjoiRDdnZVl1NzVJUk1PIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D?ed%3D2560&security=tls&sni=PooRIaREdoRg.POoRIAReD.Ir&alpn=http/1.1&fp=chrome&allowInsecure=0#%F0%9F%92%A6%206%20-%20VLESS%20-%20Domain%20:%20443
+
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?type=ws&host=pooria300.sajaj26960.workers.dev&path=/pYlvrOh1WyvqzKtg?ed%3D2560&security=none#%F0%9F%94%A580%F0%9F%93%8CPOORIA1
