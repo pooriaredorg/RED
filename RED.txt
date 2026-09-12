@@ -18,3 +18,5 @@ trojan://@pooriamrefigha1pooria.up.railway.app:443?type=ws&security=tls&fp=chrom
 
 vless://f96e44f9-13d6-9c7d-376d-423fe3f20737@pooriamrefigha1pooria.up.railway.app:443?type=ws&security=tls&fp=chrome&sni=pooriamrefigha1pooria.up.railway.app&path=/i/0dQZ7SFynXAz5U1c9ME5ghj2eE-Vut2X4HCpfq7Py5Bky26OPlU371-Js8QB268jjmDu1MyH2uyE5odTZ0rSuVPeBpUn7hz6DDXNgFUtlfq5t07_EsKjVT6RYSqGbhdQ54E9ED_MpPHJ2Mhm5xI/ws/f96e44f9-13d6-9c7d-376d-423fe3f20737&host=pooriamrefigha1pooria.up.railway.app&alpn=http/1.1#%F0%9F%A5%B7%F0%9F%8F%BB%F0%9F%95%8A%EF%B8%8Fpooriam%20%C2%B7%20VLESS
 
+vless://11823649-ab2d-433b-9478-403c1b3fd23a@pooriatttttttttttoodxkwbshnrnejskxxkalqlwsoxpdoekesdbjdjdxkxkee.up.railway.app:443?encryption=none&security=tls&type=ws&host=pooriatttttttttttoodxkwbshnrnejskxxkalqlwsoxpdoekesdbjdjdxkxkee.up.railway.app&path=%2Fws%2F11823649-ab2d-433b-9478-403c1b3fd23a&sni=pooriatttttttttttoodxkwbshnrnejskxxkalqlwsoxpdoekesdbjdjdxkxkee.up.railway.app&fp=chrome&alpn=http/1.1#تمام کانفیگ ها کمکی و موقت هستند🕊️🥷🏻
+
