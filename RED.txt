@@ -1,15 +1,3 @@
-vless://4277ba0d-aed6-407f-835c-197c75ea893c@redshopbabolsar.up.railway.app:443?type=ws&security=tls&fp=chrome&sni=redshopbabolsar.up.railway.app&path=/ws/4277ba0d-aed6-407f-835c-197c75ea893c&host=redshopbabolsar.up.railway.app&alpn=http/1.1#%F0%9F%9A%A8%F0%9F%86%98POORIA2
-
-vless://bd765cd0-a085-4a83-9360-5d45d654900f@iranredshop.up.railway.app:443?type=ws&security=tls&fp=chrome&sni=iranredshop.up.railway.app&path=/ws/bd765cd0-a085-4a83-9360-5d45d654900f&host=iranredshop.up.railway.app&alpn=http/1.1#%F0%9F%9A%A8%F0%9F%86%98POORIA4
-
-vless://055137a2-1ec2-4881-b244-92cf1720124b@germanidddfhjbcdsssdcbnkuytesasxvbmkjaaaaaadgybvfdmmbrxwu.up.railway.app:443?type=ws&security=tls&fp=chrome&sni=germanidddfhjbcdsssdcbnkuytesasxvbmkjaaaaaadgybvfdmmbrxwu.up.railway.app&path=/ws/055137a2-1ec2-4881-b244-92cf1720124b&host=germanidddfhjbcdsssdcbnkuytesasxvbmkjaaaaaadgybvfdmmbrxwu.up.railway.app&alpn=http/1.1#%F0%9F%9A%A8%F0%9F%86%98POORIA6
-
-vless://a499d4d5-2653-4995-95ad-3a0db462bb62@mazandaran-shomalpet.up.railway.app:443?type=ws&security=tls&fp=chrome&sni=mazandaran-shomalpet.up.railway.app&path=/ws/a499d4d5-2653-4995-95ad-3a0db462bb62&host=mazandaran-shomalpet.up.railway.app&alpn=http/1.1#%F0%9F%9A%A8%F0%9F%86%98POORIA8
-
-vless://77e56770-4f89-4abf-8bce-976074c7ee59@snappgvbjjvdssdfggfewdvnmkh2467werffyyeeeewhk-production-2165.up.railway.app:443?type=ws&security=tls&fp=chrome&sni=snappgvbjjvdssdfggfewdvnmkh2467werffyyeeeewhk-production-2165.up.railway.app&path=/ws/77e56770-4f89-4abf-8bce-976074c7ee59&host=snappgvbjjvdssdfggfewdvnmkh2467werffyyeeeewhk-production-2165.up.railway.app&alpn=http/1.1#%D8%AD%D8%AA%D9%85%D8%A7%20%D9%84%DB%8C%D9%86%DA%A9%20%D8%B1%D9%88%20%D8%AA%D9%88%20%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87%20incy%20%D8%A8%D8%B2%D9%86%DB%8C%D8%AF
-
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@speedtestmazandaran.up.railway.app:443?type=ws&security=tls&fp=chrome&sni=speedtestmazandaran.up.railway.app&path=/ws/53fa8faf-ba4b-4322-9c69-a3e5b1555049&host=speedtestmazandaran.up.railway.app&alpn=http/1.1#%F0%9F%A5%B7%F0%9F%8F%BB%F0%9F%A4%ACPOORIAMRED3
-
 vless://db3cd595-6111-006e-0f74-17ec582dee6f@www.speedtest.net:443?sni=pooriared.poorianahanshop.workers.dev&insecure=0&path=%2Fsync&allowInsecure=0&encryption=none&host=pooriared.poorianahanshop.workers.dev&security=tls&type=ws&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1#POORIA-v2box مخصوص برنامه 1
 
 vless://db3cd595-6111-006e-0f74-17ec582dee6f@www.speedtest.net:443?sni=pooriared.poorianahanshop1.workers.dev&insecure=0&path=%2Fsync&allowInsecure=0&encryption=none&host=pooriared.poorianahanshop1.workers.dev&security=tls&type=ws&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1#POORIA-v2box مخصوص برنامه 2
